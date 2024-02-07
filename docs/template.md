@@ -1,17 +1,21 @@
 # Название статьи
 
-[Таблица]({your relative link here to main table})
+[Главная таблица]({your relative link here to main table})
 
 <details>
 <dl>
     <dt>авторы:</dt>    
-    <dd>{Insert authors here}</dd>
+    <dd>Insert authors here</dd>
     <dt>год:</dt>
-    <dd>{Insert year here}</dd>
+    <dd>Insert year here</dd>
     <dt>doi:</dt>
-    <dd>{Insert doi here}</dd>
+    <dd><a href ="Insert doi here">Cсылка</a></dd>
     <dt>tags:</dt>
-    <dd>{your KEYWORDS}</dd>
+    <dd>your_KEYWORDS</dd>
+    <dt>создано:</dt>
+    <dd>DATE</dd>
+    <dt>обновлено:</dt>
+    <dd>YOUR_DATE</dd>    
 </dl>
 </details>
 
@@ -21,4 +25,4 @@
 
 ##### Список литературы
 
-[Таблица]({your relative link here to main table})
+[Главная таблица]({your relative link here to main table})

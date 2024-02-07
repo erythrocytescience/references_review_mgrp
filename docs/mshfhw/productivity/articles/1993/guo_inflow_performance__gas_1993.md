@@ -1,11 +1,23 @@
 # Inflow Performance and Production Forecasting of Horizontal Wells With Multiple Hydraulic Fractures in Low-Permeability Gas Reservoirs
 
----
-авторы  : Genliang Guo and A.D. Evans
-год     : 1993
-doi     : https://doi.org/10.2118/26169-MS
-tags    : продуктивность ГС, однофазная фильтрация, многофазная, аналитическая формула
---- 
+[Главная таблица](../../main)
+
+<details>
+<dl>
+    <dt>авторы:</dt>    
+    <dd>Genliang Guo and A.D. Evans</dd>
+    <dt>год:</dt>
+    <dd>1993</dd>
+    <dt>doi:</dt>
+    <dd><a href ="https://doi.org/10.2118/26169-MS">Cсылка</a></dd>
+    <dt>tags:</dt>
+    <dd>продуктивность ГС; однофазная фильтрация; многофазная фильтрация; аналитическая формула; упругий режим</dd>
+    <dt>создано:</dt>
+    <dd>03.02.2024</dd>
+    <dt>обновлено:</dt>
+    <dd>07.02.2024</dd>  
+</dl>
+</details>
 
 > [!WARNING]
 > УПРУГИЙ РЕЖИМ!!!
@@ -17,9 +29,10 @@ tags    : продуктивность ГС, однофазная фильтра
 
 Графики все зависят от времени. 
 
-[Назад](mshfhw_productivity)
+#### Похожие статьи
 
-Связанные статьи:
-1. 
+##### Список литературы
+
+[Главная таблица](../../main)
 
 
