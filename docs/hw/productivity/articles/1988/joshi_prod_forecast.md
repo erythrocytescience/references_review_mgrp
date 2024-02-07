@@ -1,19 +1,19 @@
-# Название статьи
+# Production Forecasting Methods for Horizontal Wells
 
-[Таблица]({your relative link here to main table})
+[Главная таблица](../../main)
 
 <details>
 <dl>
     <dt>авторы:</dt>    
-    <dd>Insert authors here</dd>
+    <dd>S.D. Joshi</dd>
     <dt>год:</dt>
-    <dd>Insert year here</dd>
+    <dd>1988</dd>
     <dt>doi:</dt>
-    <dd><a href ="Insert doi here">Cсылка</a></dd>
+    <dd><a href ="https://doi.org/10.2118/17580-MS">Cсылка</a></dd>
     <dt>tags:</dt>
     <dd>your_KEYWORDS</dd>
     <dt>создано:</dt>
-    <dd>29.01.2024</dd>
+    <dd>07.02.2024</dd>
     <dt>обновлено:</dt>
     <dd>07.02.2024</dd>    
 </dl>
@@ -25,4 +25,4 @@
 
 ##### Список литературы
 
-[Таблица]({your relative link here to main table})
+[Главная таблица](../../main)
