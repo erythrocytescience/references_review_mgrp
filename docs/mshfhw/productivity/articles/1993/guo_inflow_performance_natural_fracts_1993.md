@@ -3,15 +3,20 @@
 [Главная таблица](../../main)
 
 <details>
+<summary>Детали</summary>
 <dl>
     <dt>авторы:</dt>    
     <dd>Genliang Guo and A.D. Evans</dd>
     <dt>год:</dt>
     <dd>1993</dd>
     <dt>doi:</dt>
-    <dd>https://doi.org/10.2118/25501-MS</dd>
+    <dd><a href ="https://doi.org/10.2118/25501-MS">Cсылка</a></dd>
     <dt>tags:</dt>
     <dd>аналитическая формула, продуктивность ГС, продуктивность ГС с МГРП, МГРП, однофазка, многофазка, упругий режим</dd>
+    <dt>создано:</dt>
+    <dd>03.02.2024</dd>
+    <dt>обновлено:</dt>
+    <dd>07.02.2024</dd>  
 </dl>
 </details>
 
