@@ -3,6 +3,7 @@
 [Главная таблица](../../main)
 
 <details>
+<summary>Детали</summary>
 <dl>
     <dt>авторы:</dt>    
     <dd>S.D. Joshi</dd>

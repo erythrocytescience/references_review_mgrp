@@ -3,6 +3,7 @@
 [Главная таблица]({your relative link here to main table})
 
 <details>
+<summary>Детали</summary>
 <dl>
     <dt>авторы:</dt>    
     <dd>Insert authors here</dd>

@@ -3,6 +3,7 @@
 [Главная таблица](../../main)
 
 <details>
+<summary>Детали</summary>
 <dl>
     <dt>авторы:</dt>    
     <dd>Genliang Guo and A.D. Evans</dd>
