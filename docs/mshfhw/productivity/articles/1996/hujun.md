@@ -59,7 +59,7 @@ $$
 Дебит $i$-ой трещины
 
 $$
-\triangle p = p_r - p_w = \dfrac{Q_i \mu}{2}
+\triangle p = p_r - p_{wf} = \dfrac{Q_i \mu}{2}
 \left[
     \dfrac{L^* - x_f}{kh \left({L_f}_1 + {L_f}_2\right)} + 
     \dfrac{1}{k h x_f \left(\dfrac{1}{{L_f}_1} + \dfrac{1}{{L_f}_2} \right)} +
