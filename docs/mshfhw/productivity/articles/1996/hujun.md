@@ -56,7 +56,7 @@ $$
 \triangle p = ...
 $$
 
-Дебит i-ой трещины
+Дебит $i$-ой трещины
 
 $$
 \triangle p = p_r - p_w = \dfrac{Q_i \mu}{2}
