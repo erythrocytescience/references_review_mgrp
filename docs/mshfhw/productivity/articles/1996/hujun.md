@@ -12,11 +12,11 @@
     <dt>doi:</dt>
     <dd><a href ="https://doi.org/10.2118/37051-MS">Cсылка</a></dd>
     <dt>tags:</dt>
-    <dd>your_KEYWORDS</dd>
+    <dd>MSHFHW, productivity, resistance theory</dd>
     <dt>создано:</dt>
     <dd>08.02.2024</dd>
     <dt>обновлено:</dt>
-    <dd>08.02.2024</dd>
+    <dd>14.05.2024</dd>
 </dl>
 </details>
 
